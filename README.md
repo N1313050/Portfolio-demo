@@ -7,7 +7,7 @@ Analysis of Own Skills
 Reflection on Professional Conduct
 # General Information-
 Greeting, I hope you are having a fantastic day, I am Alexey Ovsyanik , currently a student at Nottingham Trent University , doing my first year in the course of data science , I have a certificate of completion from A Belarusian High school and Abbey college  both for IFP and GSCE, and last time I completed IElTS for the  application to these university I had a grade 8. As a interesting fact about me I would like to inform you that I enjoy learning about history , collecting medieval weapons and armour even as replicas , reading and play tabletop games, such as Warhammer 40k tenth edition and Magic the gathering as well as DnD, all thing that have taught me collaboration skills and improvisation, at university I attend the fencing club, those I have not yet found time for it I would like to go back to Horse ridding, a hobby that teaches you to pay attention to your surroundings patience and care. 
-93fc4f22-8c4e-49e1-a72f-d5a753be403d
+e6e1bfcf-697f-4404-99ff-34e766c878ad.png
 
 # Future careers  
 My future career aspiration .
