@@ -1,7 +1,11 @@
 # Portfolio-demo
 
-# h 1Heading 
-# h2 Heading
+# h1 Content: 
+# h2 General Information	
+future careers  
+Analysis of Own Skills  
+Reflection on Professional Conduct
+
 # h3 Heading
 # h4 Heading
 # h5 Heading
